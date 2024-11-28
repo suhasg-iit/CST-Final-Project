@@ -38,10 +38,10 @@ This is a modern web application that brings together data from various APIs to 
 
 ## 📸 Screenshots
 
-![Screenshot 1](https://github.com/suhasg-iit/CST-Final-Project/blob/main/images/image%20of%20application%20home%20page.png)
+![Screenshot 1](https://github.com/suhasg-iit/CST-Final-Project/blob/main/images/imageofapplicationhomepage.png)
 *Homepage before selecting a feature*
 
-![Screenshot 2](images/news%20api%20working.png)
+![Screenshot 2](images/newsapiworking.png)
 *News API.*
 
 ![Screenshot 3](images/weather%20api%20working.png)
