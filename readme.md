@@ -56,7 +56,9 @@ This is a modern web application that brings together data from various APIs to 
 
 
 ##Data Analysis
+
 *News API.*
+
 ![Screenshot 6](Images/image-1.png)
 
 
