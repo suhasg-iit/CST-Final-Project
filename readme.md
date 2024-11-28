@@ -56,7 +56,7 @@ This is a modern web application that brings together data from various APIs to 
 
 ##Data Analysis
 *News API.*
-![Screenshot 6](images/image-1.png)
+![Screenshot 6](https://github.com/suhasg-iit/CST-Final-Project/blob/main/Images/image-1.png)
 
 
 ![Screenshot 7](images/image-2.png)
