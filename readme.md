@@ -44,13 +44,14 @@ This is a modern web application that brings together data from various APIs to 
 ![Screenshot 2](Images/newsapiworking.png)
 *News API.*
 
-![Screenshot 3](Images/weather%20api%20working.png)
+![Screenshot 3](Images/weatherapiworking.png)
 *Weather API.*
 
 ![Screenshot 4](Images/working%20twitter%20api.png)
 *Twitter API*
 
-![Screenshot 5](Images/Images/workingofyoutubeapi.png)
+![Screenshot 5](Images/workingofyoutubeapi.png)
+
 *Youtube API*
 
 
