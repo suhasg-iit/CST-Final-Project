@@ -50,7 +50,7 @@ This is a modern web application that brings together data from various APIs to 
 ![Screenshot 4](Images/working%20twitter%20api.png)
 *Twitter API*
 
-![Screenshot 5](Images/working%20of%20youtube%20api.png)
+![Screenshot 5](Images/Images/workingofyoutubeapi.png)
 *Youtube API*
 
 
@@ -75,6 +75,7 @@ This is a modern web application that brings together data from various APIs to 
 ![Screenshot 11](Images/image-6.png)
 
 *Youtube API*
+
 ![Screenshot 12](Images/image-7.png)
 
 
