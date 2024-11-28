@@ -38,54 +38,54 @@ This is a modern web application that brings together data from various APIs to 
 
 ## 📸 Screenshots
 
-![Screenshot 1](https://github.com/suhasg-iit/CST-Final-Project/blob/main/images/imageofapplicationhomepage.png)
+![Screenshot 1](Images/imageof%20applicationhome%20page.png)
 *Homepage before selecting a feature*
 
-![Screenshot 2](images/newsapiworking.png)
+![Screenshot 2](Images/newsapiworking.png)
 *News API.*
 
-![Screenshot 3](images/weather%20api%20working.png)
+![Screenshot 3](Images/weather%20api%20working.png)
 *Weather API.*
 
-![Screenshot 4](images/working%20twitter%20api.png)
+![Screenshot 4](Images/working%20twitter%20api.png)
 *Twitter API*
 
-![Screenshot 5](images/working%20of%20youtube%20api.png)
+![Screenshot 5](Images/working%20of%20youtube%20api.png)
 *Youtube API*
 
 
 ##Data Analysis
 *News API.*
-![Screenshot 6](https://github.com/suhasg-iit/CST-Final-Project/blob/main/Images/image-1.png)
+![Screenshot 6](Images/image-1.png)
 
 
-![Screenshot 7](images/image-2.png)
+![Screenshot 7](Images/image-2.png)
 
 
-![Screenshot 8](images/image-3.png)
+![Screenshot 8](Images/image-3.png)
 
 *Weather API.*
 
-![Screenshot 9](images/image-4.png)
+![Screenshot 9](Images/image-4.png)
 
 
-![Screenshot 10](images/image-5.png)
+![Screenshot 10](Images/image-5.png)
 
 
-![Screenshot 11](images/image-6.png)
+![Screenshot 11](Images/image-6.png)
 
 *Youtube API*
-![Screenshot 12](images/image-7.png)
+![Screenshot 12](Images/image-7.png)
 
 
-![Screenshot 13](images/image-8.png)
+![Screenshot 13](Images/image-8.png)
 
 
-![Screenshot 14](images/image-9.png)
+![Screenshot 14](Images/image-9.png)
 
 *Twitter API*
 
-![Screenshot 15](images/twitter-pewdiepie.png)
+![Screenshot 15](Images/twitter-pewdiepie.png)
 
 ---
 
